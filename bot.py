@@ -1,4 +1,3 @@
-# bot.py
 import logging
 import os
 from aiogram import Bot, Dispatcher, types
